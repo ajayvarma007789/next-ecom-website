@@ -17,7 +17,6 @@ const Menu = () => {
                         <Link href="#" className="text-black text-lg">About</Link>
                         <Link href="#" className="text-black text-lg">Logout</Link>
                         <Link href="#" className="text-black text-lg">Cart(1)</Link>
-                        test
                     </div>
                 )
             }
